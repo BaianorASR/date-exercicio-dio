@@ -12,5 +12,7 @@ public class datetreino {
 
         System.out.println(dataFormatada);
 
+        System.out.println("BaianorJoestar");
+
     }
 }
